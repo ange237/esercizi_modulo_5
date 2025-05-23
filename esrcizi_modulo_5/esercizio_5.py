@@ -34,7 +34,7 @@ di ogni commento e poi si fa la media matematica dei sentiment"""
 
 """6)per salvare i risultati dell'analisi (sentiment per commento, sentiment medio) in un formato strutturato si può usare un file csv oppure un 
 file di testo classico"""
-
+ 
 #funzione per pulire il commento
 def pulisci_testo(testo):
     testo = testo.strip() # rimuove spazi all'inizio e alla fine
