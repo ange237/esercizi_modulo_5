@@ -43,7 +43,7 @@ def pulisci_testo(testo):
 
 #funzione per trasformare in minuscolo:
 def normalizza_testo(testo):
-    return testo.lower()
+    return testo.lower() 
 
 #funzione per estrarre le parole chiavi di un commento
 def estrai_keywords(testo):
